@@ -8,7 +8,7 @@ This is a web based application developed for health related based website in in
 
 **Project Link** - https://nice-field-0bcf52d00.2.azurestaticapps.net/
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/iqZkqyb1cck
 
 ## Azure technologies used for Project
 
